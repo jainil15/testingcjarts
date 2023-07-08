@@ -1,0 +1,123 @@
+[
+  {
+    "Year": 2000,
+    "Host City": "Sydney",
+    "Country": "Australia",
+    "Total Countries": 199,
+    "Total Athletes": 10,
+    "Total Events": 200,
+    "Gold Medals": 85,
+    "Silver Medals": 80,
+    "Bronze Medals": 90
+  },
+  {
+    "Year": 2004,
+    "Host City": "Athens",
+    "Country": "Greece",
+    "Total Countries": 201,
+    "Total Athletes": 11,
+    "Total Events": 204,
+    "Gold Medals": 100,
+    "Silver Medals": 90,
+    "Bronze Medals": 100
+  },
+  {
+    "Year": 2008,
+    "Host City": "Beijing",
+    "Country": "China",
+    "Total Countries": 204,
+    "Total Athletes": 12,
+    "Total Events": 208,
+    "Gold Medals": 110,
+    "Silver Medals": 95,
+    "Bronze Medals": 105
+  },
+  {
+    "Year": 2012,
+    "Host City": "London",
+    "Country": "United Kingdom",
+    "Total Countries": 205,
+    "Total Athletes": 13,
+    "Total Events": 212,
+    "Gold Medals": 115,
+    "Silver Medals": 100,
+    "Bronze Medals": 110
+  },
+  {
+    "Year": 2016,
+    "Host City": "Rio de Janeiro",
+    "Country": "Brazil",
+    "Total Countries": 207,
+    "Total Athletes": 14,
+    "Total Events": 216,
+    "Gold Medals": 120,
+    "Silver Medals": 105,
+    "Bronze Medals": 115
+  },
+  {
+    "Year": 2020,
+    "Host City": "Tokyo",
+    "Country": "Japan",
+    "Total Countries": 206,
+    "Total Athletes": 15,
+    "Total Events": 220,
+    "Gold Medals": 125,
+    "Silver Medals": 110,
+    "Bronze Medals": 120
+  },
+  {
+    "Year": 2024,
+    "Host City": "Paris",
+    "Country": "France",
+    "Total Countries": 208,
+    "Total Athletes": 16,
+    "Total Events": 224,
+    "Gold Medals": 130,
+    "Silver Medals": 115,
+    "Bronze Medals": 125
+  },
+  {
+    "Year": 2028,
+    "Host City": "Los Angeles",
+    "Country": "United States",
+    "Total Countries": 210,
+    "Total Athletes": 17,
+    "Total Events": 228,
+    "Gold Medals": 135,
+    "Silver Medals": 120,
+    "Bronze Medals": 130
+  },
+  {
+    "Year": 2032,
+    "Host City": "Melbourne",
+    "Country": "Australia",
+    "Total Countries": 212,
+    "Total Athletes": 18,
+    "Total Events": 232,
+    "Gold Medals": 140,
+    "Silver Medals": 125,
+    "Bronze Medals": 135
+  },
+  {
+    "Year": 2036,
+    "Host City": "Berlin",
+    "Country": "Germany",
+    "Total Countries": 214,
+    "Total Athletes": 19,
+    "Total Events": 236,
+    "Gold Medals": 145,
+    "Silver Medals": 130,
+    "Bronze Medals": 140
+  },
+  {
+    "Year": 2040,
+    "Host City": "Seoul",
+    "Country": "South Korea",
+    "Total Countries": 216,
+    "Total Athletes": 20,
+    "Total Events": 240,
+    "Gold Medals": 150,
+    "Silver Medals": 135,
+    "Bronze Medals": 145
+  }
+]

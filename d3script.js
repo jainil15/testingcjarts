@@ -2,8 +2,8 @@ onload = () => {
     const d3 = window.d3;
     let svg = d3.select("#main").append("svg")
     svg
-        .attr("width", 800)
-        .attr("height", 800)
+        .attr("width", 600)
+        .attr("height", 600)
 
     function createChart(data) {
         let xScale = d3.scaleLinear()
@@ -16,7 +16,7 @@ onload = () => {
             .paddingOuter(-0.15)
 
         let axisLeft = d3.axisLeft(yScale)
-            .tickSizeInner(10) // Set negative tick size to show only inner ticks
+            .tickSizeInner(8) // Set negative tick size to show only inner ticks
             .tickSizeOuter(0);
         let xAxis = d3.axisBottom(xScale)
         svg.selectAll(".axis").remove()
@@ -106,9 +106,19 @@ onload = () => {
         {name: "Dumb2", value: 11},
 
     ]
-    setTimeout(()=>{createChart(somedata)}, 1000)
-    setTimeout(()=>{createChart(somedata2)}, 2000)
-    setTimeout(()=>{createChart(somedata)}, 3000)
+    let currentData = somedata
+    d3.select("body").append("input")
+        .attr("type", "button")
+        .attr("value", "click")
+        .on("click", () => {
+            if(currentData === somedata2) {
+                currentData = somedata
+            }
+            else {
+                currentData = somedata2
+            }
+            createChart(currentData)
+        })
 
 
     // Attach event listener to the play/pause button
