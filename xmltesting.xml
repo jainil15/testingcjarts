@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="stylingxml.xslt"?>
+
+<persons>
+    <person>
+        <name>John Doe</name>
+        <age>30</age>
+        <gender>Male</gender>
+        <city>New York</city>
+        <country>United States</country>
+    </person>
+    <person>
+        <name>Jane Smith</name>
+        <age>25</age>
+        <gender>Female</gender>
+        <city>London</city>
+        <country>United Kingdom</country>
+    </person>
+    <person>
+        <name>Robert Johnson</name>
+        <age>45</age>
+        <gender>Male</gender>
+        <city>Sydney</city>
+        <country>Australia</country>
+    </person>
+</persons>

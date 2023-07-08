@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Table</title>
+    <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/1.0.21/jquery.csv.js" integrity="sha512-2ypsPur7qcA+2JjmmIJR1c4GWFqTLIe1naXXplraMg0aWyTOyAMpOk+QL+ULpzwrO/GdwA3qB3FhVyyiR8gdhw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+</head>
+<body>
+    <table id="main-table"></table>
+    <script>
+        $.get("temp.csv", (data) => {
+            let csvObject = $.csv.toObjects(data)
+            $("#main-table").attr("border","1").append(createTable(csvObject))
+        })
+
+        function createTable(data) {
+            let html = ""
+            html+="<thead><tr>\n"
+            for (const dataKey in data[0]) {
+                html+=`<th>${dataKey}</th>\n`
+            }
+            html+="</tr></thead>\n"
+            for (const dataKey of data) {
+                html+="<tr>"
+                for (const dataKeyKey in dataKey) {
+                    html+=`<td>${dataKey[dataKeyKey]}</td>\n`
+                }
+                html+="</tr>"
+            }
+            html+="<tfoot></tfoot>"
+            return html
+        }
+    </script>
+</body>
+</html>
