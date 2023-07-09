@@ -1,0 +1,142 @@
+[
+  {
+    "year": "1950",
+    "data": [
+      {"country": "India", "population": 359000000},
+      {"country": "China", "population": 554000000},
+      {"country": "United States", "population": 158000000},
+      {"country": "Brazil", "population": 54000000},
+      {"country": "Pakistan", "population": 37400000},
+      {"country": "Russia", "population": 102800000},
+      {"country": "Japan", "population": 82100000},
+      {"country": "Indonesia", "population": 73800000},
+      {"country": "Germany", "population": 68300000},
+      {"country": "United Kingdom", "population": 50100000},
+      {"country": "France", "population": 41500000},
+      {"country": "Italy", "population": 47100000},
+      {"country": "Mexico", "population": 28100000},
+      {"country": "Canada", "population": 14000000},
+      {"country": "South Korea", "population": 20900000}
+    ]
+  },
+  {
+    "year": "1960",
+    "data": [
+      {"country": "India", "population": 449480608},
+      {"country": "China", "population": 667070000},
+      {"country": "United States", "population": 186808228},
+      {"country": "Brazil", "population": 72207554},
+      {"country": "Pakistan", "population": 44908293},
+      {"country": "Russia", "population": 119897000},
+      {"country": "Japan", "population": 92500572},
+      {"country": "Indonesia", "population": 87792515},
+      {"country": "Germany", "population": 72593573},
+      {"country": "United Kingdom", "population": 52400000},
+      {"country": "France", "population": 46814237},
+      {"country": "Italy", "population": 50843238},
+      {"country": "Mexico", "population": 34800000},
+      {"country": "Canada", "population": 17909009},
+      {"country": "South Korea", "population": 27100000}
+    ]
+  },
+  {
+    "year": "1970",
+    "data": [
+      {"country": "India", "population": 553574696},
+      {"country": "China", "population": 818315000},
+      {"country": "United States", "population": 209513341},
+      {"country": "Brazil", "population": 95113265},
+      {"country": "Pakistan", "population": 60791499},
+      {"country": "Russia", "population": 133079000},
+      {"country": "Japan", "population": 107188273},
+      {"country": "Indonesia", "population": 119208229},
+      {"country": "Germany", "population": 77871264},
+      {"country": "United Kingdom", "population": 55600000},
+      {"country": "France", "population": 52717988},
+      {"country": "Italy", "population": 54151085},
+      {"country": "Mexico", "population": 55900000},
+      {"country": "Canada", "population": 21302440},
+      {"country": "South Korea", "population": 36109000}
+    ]
+  },
+  {
+    "year": "1980",
+    "data": [
+      {"country": "India", "population": 696783473},
+      {"country": "China", "population": 981235000},
+      {"country": "United States", "population": 229466026},
+      {"country": "Brazil", "population": 121150573},
+      {"country": "Pakistan", "population": 76908675},
+      {"country": "Russia", "population": 138333000},
+      {"country": "Japan", "population": 116782000},
+      {"country": "Indonesia", "population": 147490298},
+      {"country": "Germany", "population": 78169289},
+      {"country": "United Kingdom", "population": 56300000},
+      {"country": "France", "population": 54541429},
+      {"country": "Italy", "population": 56681417},
+      {"country": "Mexico", "population": 72400000},
+      {"country": "Canada", "population": 24570502},
+      {"country": "South Korea", "population": 39648800}
+    ]
+  },
+  {
+    "year": "1990",
+    "data": [
+      {"country": "India", "population": 873277798},
+      {"country": "China", "population": 1143330000},
+      {"country": "United States", "population": 248709873},
+      {"country": "Brazil", "population": 148684125},
+      {"country": "Pakistan", "population": 111275944},
+      {"country": "Russia", "population": 147969407},
+      {"country": "Japan", "population": 123611167},
+      {"country": "Indonesia", "population": 184217000},
+      {"country": "Germany", "population": 79536684},
+      {"country": "United Kingdom", "population": 57800000},
+      {"country": "France", "population": 56172023},
+      {"country": "Italy", "population": 57314084},
+      {"country": "Mexico", "population": 84253303},
+      {"country": "Canada", "population": 28523502},
+      {"country": "South Korea", "population": 43805450}
+    ]
+  },
+  {
+    "year": "2010",
+    "data": [
+      {"country": "India", "population": 1234281171},
+      {"country": "China", "population": 1337700000},
+      {"country": "United States", "population": 309321666},
+      {"country": "Brazil", "population": 190732694},
+      {"country": "Pakistan", "population": 170043918},
+      {"country": "Russia", "population": 143056383},
+      {"country": "Japan", "population": 128057352},
+      {"country": "Indonesia", "population": 237556363},
+      {"country": "Germany", "population": 81797673},
+      {"country": "United Kingdom", "population": 62041708},
+      {"country": "France", "population": 64057792},
+      {"country": "Italy", "population": 60340328},
+      {"country": "Mexico", "population": 114975406},
+      {"country": "Canada", "population": 34030589},
+      {"country": "South Korea", "population": 48508972}
+    ]
+  },
+  {
+    "year": "2020",
+    "data": [
+      {"country": "India", "population": 1393409038},
+      {"country": "China", "population": 1444216107},
+      {"country": "United States", "population": 331002651},
+      {"country": "Brazil", "population": 212559417},
+      {"country": "Pakistan", "population": 220892340},
+      {"country": "Russia", "population": 145912025},
+      {"country": "Japan", "population": 126476461},
+      {"country": "Indonesia", "population": 273523615},
+      {"country": "Germany", "population": 83783942},
+      {"country": "United Kingdom", "population": 67886011},
+      {"country": "France", "population": 65273511},
+      {"country": "Italy", "population": 60461826},
+      {"country": "Mexico", "population": 128932753},
+      {"country": "Canada", "population": 37742154},
+      {"country": "South Korea", "population": 51269185}
+    ]
+  }
+]
